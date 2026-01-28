@@ -12,7 +12,8 @@ profile:
     <p>
       <a href="https://www.universiteitleiden.nl/en/science/locations/kamerlingh-onnes-building" target="_blank" rel="noopener">Kamerlingh Onnes Building</a>, Room B2.03<br>
       Steenschuur 25<br>
-      2311 ES Leiden
+      2311 ES Leiden<br>
+      The Netherlands
     </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
