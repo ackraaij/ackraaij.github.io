@@ -9,7 +9,10 @@ profile:
   image: web_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="https://www.universiteitleiden.nl/en/locations/kamerlingh-onnes-building" target="_blank" rel="noopener">Kamerlingh Onnes Building</a>, Room B2.03<br>Steenschuur 25<br>2311 ES Leiden<br>The Netherlands</p>
+    <p><a href="https://www.universiteitleiden.nl/en/locations/kamerlingh-onnes-building" target="_blank" rel="noopener">Kamerlingh Onnes Building</a>, room B2.03</p>
+    <p>Steenschuur 25</p>
+    <p>2311 ES Leiden</p>
+    <p>The Netherlands</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
