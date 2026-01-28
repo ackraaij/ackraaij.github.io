@@ -8,7 +8,7 @@ profile:
   align: right
   image: web_photo.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: |
     <p>Kamerlingh Onnes Building, room B2.03</p>
     <p>Steenschuur 25</p>
     <p>2311 ES Leiden</p>
