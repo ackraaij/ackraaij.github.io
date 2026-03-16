@@ -8,5 +8,5 @@ nav_order: 6
 ---
 
 ## Current Courses
-* **Social Security (Sociale Zekerheid)** -- Course Coordinator
-* **Reform of Social Legislation (Hervorming van Sociale Regelgeving)** -- Seminar Lecturer
+* **Sociale Zekerheid (Social Security)** -- Course coordinator and lecturer -- [Prospectus](https://studiegids.universiteitleiden.nl/courses/133428/sociale-zekerheid)
+* **Economie voor Beleidsmakers (Economics for Policymakers)** -- Course coordinator and lecturer -- [Prospectus](https://studiegids.universiteitleiden.nl/courses/133548/economie-voor-beleidsmakers)
