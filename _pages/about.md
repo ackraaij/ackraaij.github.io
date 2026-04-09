@@ -32,7 +32,7 @@ My name is Sander Kraaij. I work as a postdoctoral researcher and academic lectu
 
 Previously, I completed my doctorate at the [University of Cologne](https://www.uni-koeln.de/en/), advised by [Dirk Sliwka](https://dsliwka.github.io/) and [Anna Bindler](https://sites.google.com/site/annabindler/).
 
-## Selected Publications
+## Publications
 
 {% include selected_papers.liquid %}
 
