@@ -14,7 +14,7 @@ profile:
     <p>2311 ES Leiden</p>
     <p>The Netherlands</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}" - set to false to include manually before work in progress
+selected_papers: true # includes a list of papers marked as "selected={true}" - set to false to include manually before work in progress
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -32,11 +32,7 @@ My name is Sander Kraaij. I work as a postdoctoral researcher and lecturer in ec
 
 Previously, I completed my doctorate at the [University of Cologne](https://www.uni-koeln.de/en/), advised by [Dirk Sliwka](https://dsliwka.github.io/) and [Anna Bindler](https://sites.google.com/site/annabindler/).
 
-## Publications
-
-{% include selected_papers.liquid %}
-
-## Work in Progress
+## work in progress
 
 * **Waardoor verandert de ongelijkheid in marktinkomens? De rol van persoonskenmerken in de periode 1977-2024** (with Egbert Jongen and Heike Vethaak)
 
