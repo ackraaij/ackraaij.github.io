@@ -32,7 +32,7 @@ My name is Sander Kraaij. I work as a postdoctoral researcher and lecturer in ec
 
 Previously, I completed my doctorate at the [University of Cologne](https://www.uni-koeln.de/en/), advised by [Dirk Sliwka](https://dsliwka.github.io/) and [Anna Bindler](https://sites.google.com/site/annabindler/).
 
-## work in progress
+## Work in Progress
 
 * **Waardoor verandert de ongelijkheid in marktinkomens? De rol van persoonskenmerken in de periode 1977-2024** (with Egbert Jongen and Heike Vethaak)
 
