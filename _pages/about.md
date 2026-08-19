@@ -34,7 +34,7 @@ Previously, I completed my doctorate at the [University of Cologne](https://www.
 
 ## Work in Progress
 
-* **Waardoor verandert de ongelijkheid in marktinkomens? De rol van persoonskenmerken in de periode 1977-2024** (with Egbert Jongen and Heike Vethaak)
+* **Waardoor verandert de ongelijkheid in marktinkomens? De rol van persoons- en huishoudkenmerken in de periode 1977-2024** (with Egbert Jongen and Heike Vethaak)
 
 * **Discrimination in Firing** (with Jan Kabátek, Sacha V. Kapoor, and Dinand Webbink)
 
