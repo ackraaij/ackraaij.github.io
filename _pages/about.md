@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: web_photo.jpg
+  image: web-photo-2026-11.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="https://www.universiteitleiden.nl/en/locations/kamerlingh-onnes-building" target="_blank" rel="noopener">Kamerlingh Onnes Building</a>, room B2.03</p>
